@@ -1,0 +1,13 @@
+E:\Projectes\semaforos\Semaforos\Semaforos\bin\Debug\netcoreapp3.1\Semaforos.exe
+E:\Projectes\semaforos\Semaforos\Semaforos\bin\Debug\netcoreapp3.1\Semaforos.deps.json
+E:\Projectes\semaforos\Semaforos\Semaforos\bin\Debug\netcoreapp3.1\Semaforos.runtimeconfig.json
+E:\Projectes\semaforos\Semaforos\Semaforos\bin\Debug\netcoreapp3.1\Semaforos.runtimeconfig.dev.json
+E:\Projectes\semaforos\Semaforos\Semaforos\bin\Debug\netcoreapp3.1\Semaforos.dll
+E:\Projectes\semaforos\Semaforos\Semaforos\bin\Debug\netcoreapp3.1\Semaforos.pdb
+E:\Projectes\semaforos\Semaforos\Semaforos\obj\Debug\netcoreapp3.1\Semaforos.csprojAssemblyReference.cache
+E:\Projectes\semaforos\Semaforos\Semaforos\obj\Debug\netcoreapp3.1\Semaforos.AssemblyInfoInputs.cache
+E:\Projectes\semaforos\Semaforos\Semaforos\obj\Debug\netcoreapp3.1\Semaforos.AssemblyInfo.cs
+E:\Projectes\semaforos\Semaforos\Semaforos\obj\Debug\netcoreapp3.1\Semaforos.csproj.CoreCompileInputs.cache
+E:\Projectes\semaforos\Semaforos\Semaforos\obj\Debug\netcoreapp3.1\Semaforos.dll
+E:\Projectes\semaforos\Semaforos\Semaforos\obj\Debug\netcoreapp3.1\Semaforos.pdb
+E:\Projectes\semaforos\Semaforos\Semaforos\obj\Debug\netcoreapp3.1\Semaforos.genruntimeconfig.cache

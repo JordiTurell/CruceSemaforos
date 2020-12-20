@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nhYSd6jXCI1ue9pcKoGPIlyARqWD1ThQ0VMlNaUzkPXJBELIzG/MmEAfeUWBrchzWdgf5FoDj/jGyit9EkJfHg==",
+  "success": true,
+  "projectFilePath": "E:\\Projectes\\semaforos\\Semaforos\\Semaforos\\Semaforos.csproj",
+  "expectedPackageFiles": [
+    "E:\\Users\\if{...}else{...}\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "E:\\Users\\if{...}else{...}\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
